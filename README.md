@@ -1,4 +1,6 @@
 # Horiseon Semantic Refactor
+![GitHub top language](https://img.shields.io/github/languages/top/Tooboi/Horiseon-Refactor?logo=html5&logoColor=blue&style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/tooboi/Horiseon-Refactor?style=flat-square)
 
 ## Description
 
@@ -21,6 +23,4 @@ https://tooboi.github.io/Horiseon-Refactor/
 - Please view license file
 ## Screenshot
 ![](./assets/images/01-html-css-git-homework-demo.png)
-![GitHub top language](https://img.shields.io/github/languages/top/Tooboi/Horiseon-Refactor?logo=html5&logoColor=blue&style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/tooboi/Horiseon-Refactor?style=flat-square)
 
